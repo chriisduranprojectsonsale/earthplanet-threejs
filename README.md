@@ -124,7 +124,8 @@ You can do it editing [webpack.config.js](/webpack.config.js) and more options t
 
 </div>
 
-
+- - -
+##### You can purchase this project on this websites
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/posts/3d-earth-planet-113497637?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/post/3D-Earth-Planet-With-ThreeJS-U7U114ECWJ)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chriisduran/3d-earth-planet-threejs)
